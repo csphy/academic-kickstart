@@ -231,7 +231,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/shah_chintan_"
+    link = "//twitter.com/chintan_shah_"
 
   [[params.social]]
     icon = "google-scholar"
