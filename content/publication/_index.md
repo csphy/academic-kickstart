@@ -17,7 +17,6 @@ list_format = 0
 # caption = ""
 # +++
 
-+++
 title = "Polarization of K-shell dielectronic recombination satellite lines of Fe XIX-XXV and its application for diagnostics of anisotropies of hot plasmas"
 
 # Date first published.
@@ -46,7 +45,7 @@ abstract = "We present a systematic measurement of the X-ray emission asymmetrie
 # abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-#image_preview = ""
+# image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -69,7 +68,7 @@ url_poster = ""
 url_source = ""
 
 # Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
@@ -85,5 +84,3 @@ highlight = true
 # caption = "My caption 😄"
 
 +++
-
-# Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication #Detail page.
