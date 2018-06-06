@@ -5,7 +5,7 @@ title = "Polarization of K-shell dielectronic recombination satellite lines of F
 date = "2018-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [C. Shah, P. Amaro, R. Steinbruegge, S. Bernitt, J. R. Crespo Lopez-Urrutia, and S. Tashenov]
+authors = ["C. Shah", "P. Amaro", "R. Steinbruegge", "S. Bernitt", "J. R. Crespo Lopez-Urrutia", "S. Tashenov"]
 
 # Publication type.
 # Legend:
