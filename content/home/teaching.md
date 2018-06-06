@@ -1,17 +1,16 @@
 +++
 
-Custom widget.
-An example of using the custom widget to create your own homepage section.
-To create more sections, duplicate this file and edit the values below as desired.
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom" active = true date = 2016-04-20T00:00:00
 
-Note: a full width section format can be enabled by commenting out the title and subtitle with a #.
-title = "Teaching, Supervision, and mentoring" subtitle = ""
+# Note: a full width section format can be enabled by commenting out the title and subtitle with a #.
+title = "Teaching, Supervision, and mentoring" 
+# subtitle = ""
 
-Order that this section will appear in.
+# Order that this section will appear in.
 weight = 60
-
-+++
 
 2016-Present: at MPIK
 
@@ -25,6 +24,11 @@ Teaching assistant of ~44 stundents, FP80-83 Advanced Lab Course, Heidelberg Uni
 2012--2015: at Physikalisches Institut, Heidelberg University.
 
 2 project students: Sebastian Weber, Allison Pinto
+
+
++++
+
+
 
 # This is an example of using the custom widget to create your own homepage section.
 
