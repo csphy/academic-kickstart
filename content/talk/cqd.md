@@ -2,8 +2,8 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "Observation of alignment in trielectronic recombination"
-time_start = 2013-12
-time_end = 2013-12
+time_start = 2013-12-04T17:00:00
+time_end = 2013-12-04T17:30:00
 event = "Pretalk"
 event_url = ""
 location = "CQD Colloquium, Heidelberg University, Germany"

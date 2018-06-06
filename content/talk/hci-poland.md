@@ -6,8 +6,7 @@ time_start = 2016-09-25T15:10:00
 time_end = 2016-09-25T15:30:00
 event = "Selected Hot Topic"
 event_url = "https://hci2016.ujk.edu.pl/"
-location = "18th International Conference on the Physics of Highly Charged Ions (HCI 2016), Kielce
-Poland"
+location = "18th International Conference on the Physics of Highly Charged Ions (HCI 2016), Kielce, Poland"
 
 # Is this a selected talk? (true/false)
 selected = false

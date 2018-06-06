@@ -6,7 +6,7 @@ time_start = 2018-05-23T11:00:00
 time_end = 2018-05-23T12:00:00
 event = "Colloquium"
 event_url = "https://arcnl.nl/"
-location = "Versolato Group, Advanced Research Center for Nanolithography, Amsterdam, The Netherlands"
+location = "EUV plasma group, Advanced Research Center for Nanolithography, Amsterdam, The Netherlands"
 
 # Is this a selected talk? (true/false)
 selected = false

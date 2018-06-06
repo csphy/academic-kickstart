@@ -1,7 +1,7 @@
 +++
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "Laboratory measurements compellingly supports a charge-exchange mechanism for the "Dark matter" - 3.5 keV X-ray line"
+title = "Laboratory measurements compellingly supports a charge-exchange mechanism for the Dark matter - 3.5 keV X-ray line"
 time_start = 2017-07-25T14:00:00
 time_end = 2017-07-25T14:20:00
 event = "Selected Hot Topic"
