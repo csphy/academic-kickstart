@@ -17,15 +17,16 @@ weight = 60
 
 
 I am directly/indirectly supervising following students from 2016 at MPIK, Heidelberg, Germany: 
-- 5 Undergraduate students:
-- Leticia Taeubert, Julia Jaeger, Alvaro Lozano Onrubia, Enac Gallardo, Ruth Winters.
-- 4 project students: 
-- Danny Pingitzer, Hayriye G\"ors\"un, Adithyan Radhakrishnan, Maria Sanchez Poncela.
+
+- 5 Undergraduate students: Leticia Taeubert, Julia Jaeger, Alvaro Lozano Onrubia, Enac Gallardo, Ruth Winters.
+
+- 4 project students: Danny Pingitzer, Hayriye G\"ors\"un, Adithyan Radhakrishnan, Maria Sanchez Poncela.
 
 I was a teaching assistant of 44 students for the following course 2013-2014 at Heidelberg University:
+
 - Advanced Lab Course, Scintillators and Coincidence spectrometer FP-80/81/82/83
 
 I was directly/indirectly supervising following students from 2012-2015 at  at Physikalisches Institut, Heidelberg University:
-- 2 project students: 
-- Sebastian Weber, Allison Pinto
+
+- 2 project students: Sebastian Weber, Allison Pinto
 
