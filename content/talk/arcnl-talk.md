@@ -7,7 +7,7 @@ time_end = 2018-05-23T12:00:00
 # abstract = ""
 # abstract_short = ""
 event = "Colloquium"
-# event_url = "https://example.org"
+# event_url = "https://arcnl.nl/"
 location = "Advanced Research Center for Nanolithography, Amsterdam, The Netherlands"
 
 # Is this a selected talk? (true/false)
