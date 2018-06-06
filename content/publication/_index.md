@@ -9,22 +9,22 @@ highlight = false
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 3
+list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
+#[header]
+#image = ""
+#caption = ""
+#+++
 
 +++
 title = "Polarization of K-shell dielectronic recombination satellite lines of Fe XIX-XXV and its application for diagnostics of anisotropies of hot plasmas"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [C. Shah, P. Amaro, R. Steinbr\"ugge, S. Bernitt, J. R. Crespo L\'opez-Urrutia, and S. Tashenov]
+authors = [C. Shah, P. Amaro, R. Steinbruegge, S. Bernitt, J. R. Crespo Lopez-Urrutia, and S. Tashenov]
 
 # Publication type.
 # Legend:
@@ -46,7 +46,7 @@ abstract = "We present a systematic measurement of the X-ray emission asymmetrie
 #abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
