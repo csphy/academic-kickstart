@@ -12,10 +12,10 @@ highlight = false
 list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
-#[header]
-#image = ""
-#caption = ""
-#+++
+# [header]
+# image = ""
+# caption = ""
+# +++
 
 +++
 title = "Polarization of K-shell dielectronic recombination satellite lines of Fe XIX-XXV and its application for diagnostics of anisotropies of hot plasmas"
@@ -43,7 +43,7 @@ publication_short = "In *ApJS*"
 
 # Abstract and optional shortened version.
 abstract = "We present a systematic measurement of the X-ray emission asymmetries in the K-shell dielectronic, trielectronic, and quadruelectronic recombination of free electrons into highly charged ions. Iron ions in He-like through O-like charge states were produced in an electron beam ion trap, and the electron-ion collision energy was scanned over the recombination resonances. Two identical X-ray detectors mounted head-on and side-on with respect to the electron beam propagation recorded X-rays emitted in the decay of resonantly populated states. The degrees of linear polarization of X-rays inferred from observed emission asymmetries benchmark distorted-wave predictions of the Flexible Atomic Code (FAC) for several dielectronic recombination satellite lines. The present method also demonstrates its applicability for diagnostics of energy and direction of electron beams inside hot anisotropic plasmas. Both experimental and theoretical data can be used for modeling of hot astrophysical and fusion plasmas."
-#abstract_short = "A short version of the abstract."
+# abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 #image_preview = ""
@@ -80,10 +80,10 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-#[header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption 😄"
+# [header]
+# image = "headers/bubbles-wide.jpg"
+# caption = "My caption 😄"
 
 +++
 
-#Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication #Detail page.
+# Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication #Detail page.
