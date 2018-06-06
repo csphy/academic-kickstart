@@ -12,16 +12,16 @@ title = "Teaching, Supervision, and mentoring"
 # Order that this section will appear in.
 weight = 60
 
-2016-Present: at MPIK
+2016-Present at MPIK
 
 5 Undergraduate students: Leticia Taeubert, Julia Jaeger, Alvaro Lozano Onrubia, Enac Gallardo, Ruth Winters.
 4 project students: Danny Pingitzer, Hayriye G\"ors\"un, Adithyan Radhakrishnan, Maria Sanchez Poncela.
 
-2013--2014: at Heidelberg University
+2013-2014 at Heidelberg University
 
 Teaching assistant of ~44 stundents, FP80-83 Advanced Lab Course, Heidelberg University.
 
-2012--2015: at Physikalisches Institut, Heidelberg University.
+2012-2015 at Physikalisches Institut, Heidelberg University.
 
 2 project students: Sebastian Weber, Allison Pinto
 
