@@ -1,11 +1,11 @@
 +++
-title = "Compton polarimeter for 10 - 30 keV x rays"
+title = "Silicon drift detector calibration for soft x-ray measurements at tokamaks"
 
 # Date first published.
-date = "2018-03-20"
+date = "2012-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["S. Weber", "C. Beilmann", "C. Shah", "and S. Tashenov"]
+authors = ["S. Purohit", "J. V. Raval", "Y. S. Joisa", "and C. Shah"]
 
 # Publication type.
 # Legend:
@@ -19,17 +19,17 @@ authors = ["S. Weber", "C. Beilmann", "C. Shah", "and S. Tashenov"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Review of Scientific Instruments*, **86**, 093110 (2015)"
-publication_short = "*RSI*, **86**, 093110 (2015)"
+publication = "*Institute for Plasma Research - Technical Reports*, **TR-230** (2012)"
+publication_short = "*IPR - Tech. Rep.*, **TR-230** (2012)"
 
 # Abstract and optional shortened version.
-abstract = "We present a simple and versatile polarimeter for x rays in the energy range of 10–30 keV. It uses Compton scattering in low-Z materials such as beryllium or boron carbide. The azimuthal distribution of the scattered x rays is sampled by an array of 12 silicon PIN diodes operated at room temperature. We evaluated the polarimetry performance using Monte-Carlo simulations and show experimental results."
+abstract = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -38,8 +38,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1063/1.4931165"
-
+url_pdf = "http://www.ipr.res.in/library/"
 
 # Does the content use math formatting?
 math = true
