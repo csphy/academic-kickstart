@@ -36,4 +36,5 @@ weight = 5
 # Biography
 
 Welcome to my website. I am currently a Postdoctoral Research Scientist at Max Planck Institute for Nuclear Physics in Germany. This website outlines basic information about my reserach, CV, and contact information.
+
 I obtained my B.Sc. and M.Sc. (Physics) degree in 2011 from the The Maharaja Sayajirao University of Baroda, India. After I worked as a assistant scientist in Soft X-ray Diagnostics Department in Institute for Plasma research for a year. I then went on to do my Ph.D. at the Physics Insitute in Heidelberg University, Germany, under the supervision of Dr. Stanislav Tashenov. After finishing my Ph.D. in 2015, I joined Max Planck Institute for Nuclear Physics in 2016 as a postdoctoral associate working with Dr. José Ramón Crespo López-Urrutia.
