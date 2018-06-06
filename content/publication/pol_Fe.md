@@ -19,8 +19,8 @@ authors = ["C. Shah", "P. Amaro", "R. Steinbruegge", "S. Bernitt", "J. R. Crespo
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Astrophysical Journal Supplement Series*."
-publication_short = "In *ApJS* \textbf{234}, 27 (2018)"
+publication = "*The Astrophysical Journal Supplement Series*."
+publication_short = "*ApJS* **234**, 27 (2018)"
 
 # Abstract and optional shortened version.
 abstract = "We present a systematic measurement of the X-ray emission asymmetries in the K-shell dielectronic, trielectronic, and quadruelectronic recombination of free electrons into highly charged ions. Iron ions in He-like through O-like charge states were produced in an electron beam ion trap, and the electron-ion collision energy was scanned over the recombination resonances. Two identical X-ray detectors mounted head-on and side-on with respect to the electron beam propagation recorded X-rays emitted in the decay of resonantly populated states. The degrees of linear polarization of X-rays inferred from observed emission asymmetries benchmark distorted-wave predictions of the Flexible Atomic Code (FAC) for several dielectronic recombination satellite lines. The present method also demonstrates its applicability for diagnostics of energy and direction of electron beams inside hot anisotropic plasmas. Both experimental and theoretical data can be used for modeling of hot astrophysical and fusion plasmas."
