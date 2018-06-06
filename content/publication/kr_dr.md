@@ -29,7 +29,7 @@ abstract = "We report a measurement of KLL dielectronic recombination in charge 
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

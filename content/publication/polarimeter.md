@@ -2,7 +2,7 @@
 title = "Compton polarimeter for 10 - 30 keV x rays"
 
 # Date first published.
-date = "2018-03-20"
+date = "2015-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["S. Weber", "C. Beilmann", "C. Shah", "and S. Tashenov"]
@@ -29,7 +29,7 @@ abstract = "We present a simple and versatile polarimeter for x rays in the ener
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

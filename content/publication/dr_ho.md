@@ -2,7 +2,7 @@
 title = "Strong higher-order resonant contributions to x-ray line polarization in hot plasmas"
 
 # Date first published.
-date = "2018-03-20"
+date = "2016-06-16"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["C. Shah", "P. Amaro", "R. Steinbruegge", "C. Beilmann", "S. Bernitt", "S. Fritzsche", "A. Surzhykov", "J. R. Crespo Lopez-Urrutia", "and S. Tashenov"]
