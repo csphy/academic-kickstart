@@ -5,7 +5,7 @@ title = "Laboratory measurements compellingly support a charge-exchange mechanis
 date = "2016-12-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["C. Shah", "S. Dobrodey", "S. Bernitt", R. Steinbruegge", "J. R. Crespo Lopez-Urrutia", "L. Gu", "and J. Kaastra"]
+authors = ["C. Shah", "S. Dobrodey", "S. Bernitt", "R. Steinbruegge", "J. R. Crespo Lopez-Urrutia", "L. Gu", "and J. Kaastra"]
 
 # Publication type.
 # Legend:
