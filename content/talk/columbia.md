@@ -4,7 +4,7 @@ date = 2017-01-01T00:00:00  # Schedule page publish date.
 title = "The 3.5 keV X-ray line: an unknown plasma line or a dark matter decay line?"
 time_start = 2017-09-06T13:00:00
 time_end = 2017-09-06T14:00:00
-event = "Invited talk"
+event = "Special Seminar at Columbia University, New York, USA"
 event_url = "http://user.astro.columbia.edu/~savin/"
 location = "Savin Group, Nevis Labs, Columbia University, New York, USA"
 

@@ -4,7 +4,7 @@ date = 2017-01-01T00:00:00  # Schedule page publish date.
 title = "First systematic measurement of the photon emission anisotropy following resonant recombination into highly charged ions"
 time_start = 2014-03-14T11:00:00
 time_end = 2014-03-14T11:15:00
-event = "Selected talk"
+event = "Selected talk at DPG AMOP meeting, Berlin, Germany"
 event_url = ""
 location = "DPG Spring Meeting, Berlin, Germany"
 

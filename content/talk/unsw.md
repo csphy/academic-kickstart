@@ -2,9 +2,9 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "The 3.5 keV X-ray line: an unknown plasma line or a dark matter decay line?"
-time_start = 2017-08-03T11:00:00
-time_end = 2017-08-03T12:00:00
-event = "Invited talk"
+time_start = 2017-08-04T12:00:00
+time_end = 2017-08-04T13:00:00
+event = "Special Seminar at UNSW, Sydney, Australia"
 event_url = "https://www.physics.unsw.edu.au/staff/julian-berengut"
 location = "Berengut Group, School of Physics, University of New South Walse, Sydney, Autralia"
 

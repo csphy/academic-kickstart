@@ -4,7 +4,7 @@ date = 2017-01-01T00:00:00  # Schedule page publish date.
 title = "Strong higher-order resonant contributions to x-ray line polarization in hot plasmas"
 time_start = 2016-09-25T15:10:00
 time_end = 2016-09-25T15:30:00
-event = "Selected Hot Topic"
+event = "Selected Hot Topic at HCI conference, Kielce, Poland"
 event_url = "https://hci2016.ujk.edu.pl/"
 location = "18th International Conference on the Physics of Highly Charged Ions (HCI 2016), Kielce, Poland"
 

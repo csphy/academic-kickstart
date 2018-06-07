@@ -4,7 +4,7 @@ date = 2017-01-01T00:00:00  # Schedule page publish date.
 title = "Polarization of resonantly excited x-ray lines"
 time_start = 2016-04-11T09:30:00
 time_end = 2016-04-11T10:30:00
-event = "Special Seminar"
+event = "Special Seminar at MPIK, Heidelberg, Germany"
 event_url = ""
 location = "MPIK, Heidelberg, Germany"
 

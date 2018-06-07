@@ -4,7 +4,7 @@ date = 2017-01-01T00:00:00  # Schedule page publish date.
 title = "Laboratory measurements compellingly supports a charge-exchange mechanism for the Dark matter - 3.5 keV X-ray line"
 time_start = 2017-08-31T11:00:00
 time_end = 2017-08-31T12:00:00
-event = "Invited talk"
+event = "Special Seminar at LLNL, Livermore, California, USA"
 event_url = "https://ebit.llnl.gov/"
 location = "EBIT Group, Lawrence Livermore National Laboratory, Livermore, California, USA"
 

@@ -4,7 +4,7 @@ date = 2017-01-01T00:00:00  # Schedule page publish date.
 title = "The 3.5 keV X-ray line: an unknown plasma line or a dark matter decay line?"
 time_start = 2016-11-03T11:00:00
 time_end = 2016-11-03T12:00:00
-event = "Kafeepalaver"
+event = "Kafeepalaver at MPIK, Heidelberg, Germany"
 event_url = ""
 location = "MPIK, Heidelberg, Germany"
 

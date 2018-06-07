@@ -4,7 +4,7 @@ date = 2017-01-01T00:00:00  # Schedule page publish date.
 title = "Measurement of the x-ray emission asymmetries in the resonant electron recombination into highly charged ions"
 time_start = 2014-10-01T14:00:00
 time_end = 2014-10-01T14:20:00
-event = "Workshop talk"
+event = "Selected talk at IMPRS workshop, Heidelberg, Germany"
 event_url = ""
 location = "Internation Max Planck Research School Workshop, Heidelberg, Germany"
 
