@@ -16,17 +16,17 @@ weight = 60
 +++
 
 
-- 2016-Present: Supervision and mentoring at MPIK, Heidelberg, Germany.
+2016-Present: Supervision and mentoring at MPIK, Heidelberg, Germany.
 
 + 5 Undergraduate students: Leticia Taeubert, Julia Jaeger, Alvaro Lozano Onrubia, Enac Gallardo, Ruth Winters.
 
 + 4 project students: Danny Pingitzer, Hayriye Goersuen, Adithyan Radhakrishnan, Maria Sanchez Poncela.
 
-- 2013-2014 Teaching assistant at Heidelberg University.
+2013-2014 Teaching assistant at Heidelberg University.
 
 + Advanced Lab Course, Scintillators and Coincidence spectrometer (FP-80/81/82/83)
 
-- 2012-2014: Supervision and mentoring at Physikalisches Institut, Heidelberg University, Germany.
+2012-2014: Supervision and mentoring at Physikalisches Institut, Heidelberg University, Germany.
 
 + 2 project students: Sebastian Weber, Allison Pinto
 
