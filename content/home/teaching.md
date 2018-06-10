@@ -18,7 +18,10 @@ weight = 60
 
 2016-Present: Supervision and mentoring at MPIK, Heidelberg, Germany.
 
-+ 5 Undergraduate students: Leticia Taeubert, Julia Jaeger, Alvaro Lozano Onrubia, Enac Gallardo, Ruth Winters.
++ 5 Undergraduate students: 
+- Leticia Taeubert: [Extreme ultraviolet spectroscopy of highly charged ruthenium ions]({{% staticref "/pdf/BA-Taeubert.pdf" "newtab" %}}Download thesis{{% /staticref %}})
+
+- Julia Jaeger, Alvaro Lozano Onrubia, Enac Gallardo, Ruth Winters.
 
 + 4 project students: Danny Pingitzer, Hayriye Goersuen, Adithyan Radhakrishnan, Maria Sanchez Poncela.
 
@@ -29,4 +32,3 @@ weight = 60
 2012-2014: Supervision and mentoring at Physikalisches Institut, Heidelberg University, Germany.
 
 + 2 project students: Sebastian Weber, Allison Pinto
-
