@@ -19,11 +19,19 @@ weight = 60
 2016-Present: Supervision and mentoring at MPIK, Heidelberg, Germany.
 
 + 5 Undergraduate students: 
-- Leticia Taeubert: ({{% staticref "/pdf/BA-Taeubert.pdf" "newtab" %}}Extreme ultraviolet spectroscopy of highly charged ruthenium ions{{% /staticref %}})
+- Leticia Taeubert: {{% staticref "/pdf/BA-Taeubert.pdf" "newtab" %}}Extreme ultraviolet spectroscopy of highly charged ruthenium ions{{% /staticref %}}
+- Julia Jaeger: (in German) {{% staticref "/pdf/BA-Jaeger.pdf" "newtab" %}}Untersuchung von metastabilen Zuständen hochgeladener Ruthenium-Ionen mittels EUV-Spektroskopie{{% /staticref %}}
+- Alvaro Lozano Onrubia: {{% staticref "/pdf/BA-alvaro.pdf" "newtab" %}}Vacuum ultraviolet spectroscopy of highly charged oxygen ions{{% /staticref %}}
+- Enac Gallardo: {{% staticref "/pdf/BA-enac.pdf" "newtab" %}}Laboratory measurements of the high-$n$ dielectronic recombination satellite lines to the K$\beta$ lines of Kr$%^{34+}${{% /staticref %}}
+- Ruth Winters: {{% staticref "/pdf/BA-ruth.pdf" "newtab" %}}Vacuum ultraviolet spectroscopy of highly charged Fe ions{{% /staticref %}}
 
-- Julia Jaeger, Alvaro Lozano Onrubia, Enac Gallardo, Ruth Winters.
++ 4 project students:
+- Maria Sanchez Poncela: Calibration of VUV spectrometer with electronic transitions of He I and He II ions.
+- Adithyan Radhakrishnan: Setting up a motor grating control of the VUV spectrometer.
+- Danny Pingitzer: Dielectronic recombination of highly charged argon ions.
+- Hayriye Goersuen: Installation of UV-spectrometer at FLASH-EBIT.
 
-+ 4 project students: Danny Pingitzer, Hayriye Goersuen, Adithyan Radhakrishnan, Maria Sanchez Poncela.
+
 
 2013-2014 Teaching assistant at Heidelberg University.
 
@@ -31,4 +39,4 @@ weight = 60
 
 2012-2014: Supervision and mentoring at Physikalisches Institut, Heidelberg University, Germany.
 
-+ 2 project students: Sebastian Weber, Allison Pinto
++ 2 project students: Sebastian Weber ([X-ray polarimeter]({{< ref "publication/polarimeter.md" >}}) and Allison Pinto
