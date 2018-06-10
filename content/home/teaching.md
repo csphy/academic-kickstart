@@ -11,7 +11,7 @@ title = "Teaching"
 subtitle = "(supervision and mentoring)"
 
 # Order that this section will appear in.
-weight = 60
+weight = 40
 math = true
 +++
 
