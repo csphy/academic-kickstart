@@ -19,7 +19,7 @@ weight = 60
 2016-Present: Supervision and mentoring at MPIK, Heidelberg, Germany.
 
 + 5 Undergraduate students: 
-- Leticia Taeubert: [Extreme ultraviolet spectroscopy of highly charged ruthenium ions]({{% staticref "/pdf/BA-Taeubert.pdf" "newtab" %}}Download thesis{{% /staticref %}})
+- Leticia Taeubert: ({{% staticref "/pdf/BA-Taeubert.pdf" "newtab" %}}Extreme ultraviolet spectroscopy of highly charged ruthenium ions{{% /staticref %}})
 
 - Julia Jaeger, Alvaro Lozano Onrubia, Enac Gallardo, Ruth Winters.
 
