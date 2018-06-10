@@ -10,7 +10,7 @@ title = "Chintan Shah"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; Chintan Shah 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -65,7 +65,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "chintan.shah@mpi-hd.mpg.de"
   address = "Bothe 337, Max Planck Institute for Nuclear Physics, Saupfercheckweg 1, D-69117 Heidelberg, Germany"
-  office_hours = "Monday 09:00 to 18:00 or email for appointment"
+  office_hours = "Monday 09:00 to 18:00 or email for an appointment"
   phone = "+49 (0)6221 516 331"
   skype = ""
   telegram = ""
@@ -96,7 +96,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
   latitude = "49.38803"
   longitude = "8.70952"
@@ -115,11 +115,11 @@ enableGitInfo = false
   comment_count = true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -158,7 +158,7 @@ enableGitInfo = false
   # Privacy pack
   #   Show a cookie consent message to visitors
   #   Anonymize IP in Google Analytics (if enabled)
-  privacy_pack = false
+  privacy_pack = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -203,7 +203,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 2
 
   # Social/Academic Networking
   #
@@ -256,25 +256,25 @@ enableGitInfo = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
+  
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 4
 
 [[menu.main]]
   name = "Talks"
   url = "talk"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
   weight = 5
 
 [[menu.main]]
